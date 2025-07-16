@@ -1,6 +1,6 @@
 # Backend
 
-## Setup
+## Setup project
 - `cd backend`
 - `uv venv`
 - `source .venv/bin/activate`
